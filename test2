@@ -1,3 +1,9 @@
-noch ein test
-meeehhrr text
+<?php
 
+// miau
+a$ = "noch ein test\n";
+a$ .= "meeehhrr text\n";
+a$ .= "Escape-Test: \"\" -- sollte funktionieren\n";
+echo $a;
+
+?>
